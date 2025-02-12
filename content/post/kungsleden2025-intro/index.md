@@ -7,7 +7,7 @@ date: 2024-12-05 00:00:00+0000
 categories:
     - Kungsleden 2025
 tags:
-    - srn
+    - ski de randonnée nordique
     - laponie
 ---
 
