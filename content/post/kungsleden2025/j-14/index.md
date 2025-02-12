@@ -19,7 +19,7 @@ J'ai gardé un oeil attentif sur les bulletins météo de la région de Norrbott
 
 ![meteo-kebnekaise](img/kungsleden2025-j-14/meteo-kebnekaise.png)
 
-Les points de départ de d'arrivée, Abisko et Nikkaluokta, ont en revanches des températures plutôt chaudes pour la saison (du positif à la mi-février !). Il faudra donc faire particulièrement attention vers Nikkaluokta car la zone est remplie de cours d'eau dont la surface pourra ne pas être très solide.
+Les points de départ de d'arrivée, Abisko et Nikkaluokta, ont en revanche des températures plutôt chaudes pour la saison (du positif à la mi-février !). Il faudra donc faire particulièrement attention vers Nikkaluokta car la zone est remplie de cours d'eau dont la surface pourra ne pas être très solide.
 
 En parlant d'itinéraire, il a légèrement changé par rapport à ce qui était prévu initialement. Après avoir consulté la carto de la région (notamment les cartes _Fjallkartan_), j'ai eu quelques doutes sur la praticabilité de la vallée entre Vistas et Nikkaluokta. En effet, sur la carte, c'est une zone relativement boisée, et en fonctiond de l'enneigement ça peut devenir très compliqué de progresser. C'est aussi une région assez humide (cours d'eau, lacs, etc) qui peut poser problème en cas de température plus chaude que d'habitude, comme ça semble être le cas actuellement.
 
@@ -57,4 +57,4 @@ Pour la liaison Nikkaluokta - Kiruna, il est possible de réserver une place dan
 
 Nous y sommes bientôt ! Il me reste encore quelques petites choses à régler (activer la balise, décrasser et entretenir le réchaud...) mais globalement, on est pas mal ! Je sens que je commence à avoir de l'expérience dans la préparation de ce genre d'aventures, tout se passe plutôt bien et je sais exactement ce qu'il faut faire, qui contacter, que prévoir, et c'est plutôt chouette.
 
-Je commence déjà à penser à l'expédition suivante... Sur un autre continent ? Chaque chose en son temps :)
+Se replonger dans une préparation d'expé me donne plein d'idées... Sur un autre continent ? Chaque chose en son temps :)
