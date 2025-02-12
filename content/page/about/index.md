@@ -1,6 +1,6 @@
 ---
 title: "À propos"
-date: 2022-03-06
+date: 1970-01-01
 layout: "about"
 slug: "about"
 menu:
