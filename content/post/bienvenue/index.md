@@ -1,5 +1,5 @@
 ---
-title: 📍 Bienvenue
+title: Hello, world!
 description: Bienvenue sur Carnets de montagne !
 slug: bienvenue
 date: 2025-02-12 00:00:00+0000
