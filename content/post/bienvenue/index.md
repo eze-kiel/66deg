@@ -1,6 +1,6 @@
 ---
-title: Bienvenue
-description: Bienvenue sur Carnets de montagne
+title: 📍 Bienvenue
+description: Bienvenue sur Carnets de montagne !
 slug: bienvenue
 date: 2025-02-12 00:00:00+0000
 # image: cover.jpg
