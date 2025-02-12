@@ -9,7 +9,7 @@ categories:
 tags:
     - ski de randonnée nordique
     - laponie
-draft: false
+draft: true
 ---
 
 Ceci est le transcript réalisé à partir des notes prises dans mon carnet, chaque jour. Je n'y ai apporté que très peu de modifications, surtout des corrections orthographiques et de syntaxe, d'où la forme assez "brute" des phrases.
