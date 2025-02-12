@@ -35,6 +35,9 @@ Comme nous partons à deux cette fois-ci, j'ai dû investir dans pas mal de nouv
 
 - **La tente**: un grand sujet de réflexion ici aussi ! Nous avions le choix entre ma MSR Access 2 et une Hilleberg Keron 4GT, deux extrêmes opposés. La MSR était super lors de ma dernière expé en solitaire (même si l'absence de véritable abside m'a manqué), mais je vois mal deux personnes y dormir en hiver sur plusieurs jours. Concernant la Hilleberg, c'est une tente 4 places pesant dans les 5,5kg. Même si le confort aurait été au rendez-vous, ça me fait mal au coeur de transporter autant de poids pour "rien". J'ai donc réalisé un achat de dernière minute sur Le Bon Coin, d'une [Fjällräven Abisko Endurance 2](https://www.fjallraven.com/fr/fr-fr/sacs-et-equipement/tentes-et-sacs-de-couchage/tentes/abisko-endurance-2/) comme neuve, pour un prix plus que correct (499€). Cependant, et peut-être que nous paierons cette erreur pendant l'expédition, nous allons devoir la tester en conditions réelles directement sur place... Mais je ne suis pas inquiet.
 
+![meteo-kebnekaise](img/kungsleden2025-j-14/cumulus-teneqa.jpeg)
+
+
 Voilà pour les gros pôles de dépense. J'ai également acheté quelques habits (hardshell, doudoune, gants de grand froid), tout est listé dans la spreadsheet partagée plus tôt. Au final, cette expédition est bien plus coûteuse que ma précédente, mais nous devrions être bien mieux équipés.
 
 ## Alimentation
