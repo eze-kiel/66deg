@@ -13,7 +13,7 @@ draft: false
 
 Nous sommes à deux semaines du départ ! Ayant encore bien la tête dans tous les préparatifs, je me dis qu'il est l'occasion de faire un petit post de mise à jour avec des informations fraîches et des changements de plan.
 
-## Le tracé, la météo, toussa toussa
+## Le tracé, la météo
 
 J'ai gardé un oeil attentif sur les bulletins météo de la région de Norrbotten ces dernières semaines. Il y a eu de grosses tempêtes de vent suivies de grosses chutes de températures (ressenti à -39°C !) à la mi-Janvier, mais il semblerait que le mercure soit revenu à des valeurs plutôt habituelles pour cette fin d'hiver.
 
