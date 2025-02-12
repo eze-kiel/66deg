@@ -2,7 +2,7 @@
 title: Le projet Kungsleden 2025
 description: Car comme on dit, jamais 2 sans 3 !
 slug: projet-kungsleden-2025
-date: 2025-02-12 00:00:00+0000
+date: 2024-12-05 00:00:00+0000
 # image: cover.jpg
 categories:
     - Kungsleden 2025
