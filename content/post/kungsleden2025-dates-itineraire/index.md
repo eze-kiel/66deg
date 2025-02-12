@@ -3,7 +3,7 @@ title: "Kungsleden 2025: choix des dates et de l'itinéraire"
 # description: Car comme on dit, jamais 2 sans 3 !
 slug: kungsleden-2025-dates-itineraire
 date: 2024-12-05 12:00:00+0000
-image: cover.jpg
+# image: cover.jpg
 categories:
     - Kungsleden 2025
 tags:
