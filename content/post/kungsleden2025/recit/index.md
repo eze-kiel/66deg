@@ -18,7 +18,7 @@ Bonne lecture, en espérant que ce texte vous fasse voyager !
 
 ---
 
-Laponie 2025
+# Laponie 2025
 
 {{< quote >}}
 Je n'ai pas grand chose à léguer, quelques objets personnels, pas vraiment d'argent. Je quitterai ce monde comme j'y suis arrivé : seul et sans rien. Tout ce que j'ai c'est mon histoire et je l'écris aujourd’hui pendant que je m'en souviens encore.
