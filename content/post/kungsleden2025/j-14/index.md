@@ -21,7 +21,7 @@ J'ai gardé un oeil attentif sur les bulletins météo de la région de Norrbott
 
 Les points de départ de d'arrivée, Abisko et Nikkaluokta, ont en revanche des températures plutôt chaudes pour la saison (du positif à la mi-février !). Il faudra donc faire particulièrement attention vers Nikkaluokta car la zone est remplie de cours d'eau dont la surface pourra ne pas être très solide.
 
-En parlant d'itinéraire, il a légèrement changé par rapport à ce qui était prévu initialement. Après avoir consulté la carto de la région (notamment les cartes _Fjallkartan_), j'ai eu quelques doutes sur la praticabilité de la vallée entre Vistas et Nikkaluokta. En effet, sur la carte, c'est une zone relativement boisée, et en fonctiond de l'enneigement ça peut devenir très compliqué de progresser. C'est aussi une région assez humide (cours d'eau, lacs, etc) qui peut poser problème en cas de température plus chaude que d'habitude, comme ça semble être le cas actuellement.
+En parlant d'itinéraire, il a légèrement changé par rapport à ce qui était prévu initialement. Après avoir consulté la carto de la région (notamment les cartes [_Fjallkartan_](http://bengt.nolang.se/kartor/fjallkartan/)), j'ai eu quelques doutes sur la praticabilité de la vallée entre Vistas et Nikkaluokta. En effet, sur la carte, c'est une zone relativement boisée, et en fonctiond de l'enneigement ça peut devenir très compliqué de progresser. C'est aussi une région assez humide (cours d'eau, lacs, etc) qui peut poser problème en cas de température plus chaude que d'habitude, comme ça semble être le cas actuellement.
 
 Nous avons donc décidé de suivre l'itinéraire "classique" de la Kungsleden, avec un petit crochet par Kaitumjaure si nous avons le temps !
 
