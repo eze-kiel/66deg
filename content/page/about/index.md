@@ -9,3 +9,5 @@ menu:
         params: 
             icon: user-question
 ---
+
+Bonjour ! Je m'appelle Hugo, j'ai 26 ans, et ici je partage mes aventures et expéditions en montagne ou dans le Grand Nord.
