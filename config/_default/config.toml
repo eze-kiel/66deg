@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl = "https://carnets-de-montagne.fr"
+baseurl = "https://66degres.fr"
 languageCode = "fr-fr"
-title = "Carnets de montagne"
+title = "66 degrés"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
