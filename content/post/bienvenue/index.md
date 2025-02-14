@@ -1,6 +1,6 @@
 ---
-title: Hello, world!
-description: Bienvenue sur 66 degrés !
+title: Bienvenue sur 66 degrés !
+# description: Bienvenue sur 66 degrés !
 slug: bienvenue
 date: 2025-02-12 00:00:00+0000
 image: original.jpeg
