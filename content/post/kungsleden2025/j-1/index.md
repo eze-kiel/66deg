@@ -17,7 +17,7 @@ Départ dans moins de 24 heures ! Et les deux dernières semaines ont été haut
 
 Il y a quelques jours, nous hésitions encore à partir. Le climat local est devenu extrêmement chaud pour la saisons, avec des températures moyennes plus haute de 6°C par rapport aux normales de saison. L'impact du réchauffement climatique est drastique dans la région balayée par les souffles océaniques, comme le montre ce météogramme :
 
-![Météogramme de Meteoblue](img/kungsleden2025-j-1/meteogram_seasonal.png)
+![Météogramme de Meteoblue](meteogram_seasonal.png)
 
 Ces températures positives étaient accompagnées d'images assez effrayantes d'un reportage local, dont voici une capture d'écran:
 
@@ -57,9 +57,10 @@ Nous avons également consacré une bonne partie de la journée à l'empaquettem
 
 ![Les provisions pour les 8 prochains jours](bouffe.JPG) ![Les sacs finalement pliés !](sacs.JPG)
 
+Le sac noir, qui ira en soute, pèse 21kg. Les deux sacs bleus pour la cabine pèsent chacun 4,5kg, et nos petits sacs à dos sont assez légers.
 
 ## Changements de dernière minute
 
-- Températures plutôt clémentes en prévision
+Pour ma part, j'ai fait quelques petits ajustements concernant mon matériel perso. À cause des températures plutôt clémentes en prévision
 - quelques changements sur les habits (une polaire en moins, pas de chapka)
 - J'ai souvent froid aux fesses, donc il me faudrait un second matelas. Plutot que full Therm-a-rest Z-lite (410g) prévu intialement, forclaz acheté 12€ sur LBC coupé en deux pour pour n'avoir plus que 75cm et 175g
