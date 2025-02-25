@@ -21,7 +21,7 @@ Il y a quelques jours, nous hésitions encore à partir. Le climat local est dev
 
 Ces températures positives étaient accompagnées d'images assez effrayantes d'un reportage local, dont voici une capture d'écran:
 
-![État de la vallée de Vistas](img/kungsleden2025-j-1/vistas.jpeg)
+![Vistas, aussi vertr qu'au mois de Mai](vistas.jpeg)
 
 C'est le vallon de Vistas, où nous devions initialement passer...
 
@@ -48,19 +48,19 @@ Voici la trace GPX de l'itinéraire mis à jour: _TBD_
 
 ## Derniers tests, entretiens, etc.
 
-Ce dernier jour avant le départ était l'occasion parfaite pour monter la nouvelle tente, et tester le réchaud:
+Ce dernier jour avant le départ était l'occasion parfaite pour monter la nouvelle tente, et tester une dernière fois le réchaud.
 
 ![La tente montée](tente.JPG) ![Le duo qui prend ses marques](duo.JPG)
 
 
 Nous avons également consacré une bonne partie de la journée à l'empaquettement de la nourriture et la répartition des affaires dans les sacs. Pas une mince affaire, mais nous avons réussi à tout faire rentrer !
 
-![Les provisions pour les 8 prochains jours](bouffe.JPG) ![Les sacs finalement pliés !](sacs.JPG)
+![Les provisions pour les 8 prochains jours](bouffe.JPG) ![Étiquettage et emballage des vivres](packing.JPG) ![Les sacs finalement pliés !](sacs.JPG)
 
 Le sac noir, qui ira en soute, pèse 21kg. Les deux sacs bleus pour la cabine pèsent chacun 4,5kg, et nos petits sacs à dos sont assez légers.
 
 ## Changements de dernière minute
 
-Pour ma part, j'ai fait quelques petits ajustements concernant mon matériel perso. À cause des températures plutôt clémentes en prévision
-- quelques changements sur les habits (une polaire en moins, pas de chapka)
-- J'ai souvent froid aux fesses, donc il me faudrait un second matelas. Plutot que full Therm-a-rest Z-lite (410g) prévu intialement, forclaz acheté 12€ sur LBC coupé en deux pour pour n'avoir plus que 75cm et 175g
+Pour ma part, j'ai fait quelques petits ajustements concernant mon matériel perso. À cause des températures plutôt clémentes en prévision, j'ai décidé de ne prendre qu'une seule polaire au lieu de deux, et de ne pas prendre des extras "grand froid" style chapka. Au final, j'ai pu gagner quelques centaines de grammes sur mes habits.
+
+Nous avons prévu de doubler nos matelas gonflables avec des carimats en mousse style Thermarest Z-Lite alvéolé. Personnelement, j'ai assex souvent froid aux fesses, donc plutôt que d'emmener mon Z-lite en entier (410g), je suis parti sur un matelas Forclaz trouvé à 12€ sur Le Bon Coin que j'ai coupé aux 2/3 et emmener la plus courte section uniquement, pour au final n'avoir plus que 75cm et 175g. Amplement suffisant pour me tenir chaud dans le bas du dos !
