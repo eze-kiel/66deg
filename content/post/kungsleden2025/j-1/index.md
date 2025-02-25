@@ -42,9 +42,9 @@ En somme, la fin est compliquée mais la section Abisko -> Singi reste praticabl
 
 ## Changement de trace
 
-Afin de s'adapter aux mauvaises conditions de neige pour profiter pleinement de notre voyage, nous avons modifié notre trace, pour réaliser une sorte d'aller-retour depuis Abisko. Nous allons suivre la Kungsleden jusqu'à Salka, puis remonter NNE vers Nallo pour finalement passer le col direction NNO et atterir à Tjaktja. De là, nous reprendrons la Kungsleden en sens inverse direction Abisko.
+Afin de s'adapter aux mauvaises conditions de neige pour profiter pleinement de notre voyage, nous avons modifié notre trace, pour réaliser une sorte d'aller-retour depuis Abisko. Nous allons suivre la Kungsleden jusqu'à Sälka, puis remonter NNE vers Nallo pour finalement passer le col direction NNO et atterir à Tjaktja. De là, nous reprendrons la Kungsleden en sens inverse direction Abisko.
 
-Voici la trace GPX de l'itinéraire mis à jour: _TBD_
+Voici la trace GPX de l'itinéraire mis à jour: [lien](https://f000.backblazeb2.com/file/carnets-de-montagne-assets/gpx/laponie/abisko-abisko.gpx). Au total, nous ferons donc 120 kilomètres pour 1900D+. Un peu plus long et sportif que le plan initial, mais rien de bien extrême non plus. Nous prévoyons d'avoir les skis aux pieds le 28 février, et d'arriver aux alentours de Sälka le 2 mars. Notre train retour est le 7 mars, ce qui devrait être assez large.
 
 ## Derniers tests, entretiens, etc.
 
@@ -52,15 +52,20 @@ Ce dernier jour avant le départ était l'occasion parfaite pour monter la nouve
 
 ![La tente montée](tente.JPG) ![Le duo qui prend ses marques](duo.JPG)
 
-
 Nous avons également consacré une bonne partie de la journée à l'empaquettement de la nourriture et la répartition des affaires dans les sacs. Pas une mince affaire, mais nous avons réussi à tout faire rentrer !
 
 ![Les provisions pour les 8 prochains jours](bouffe.JPG) ![Étiquettage et emballage des vivres](packing.JPG) ![Les sacs finalement pliés !](sacs.JPG)
 
 Le sac noir, qui ira en soute, pèse 21kg. Les deux sacs bleus pour la cabine pèsent chacun 4,5kg, et nos petits sacs à dos sont assez légers.
 
-## Changements de dernière minute
+## Petits changements de dernière minute
 
 Pour ma part, j'ai fait quelques petits ajustements concernant mon matériel perso. À cause des températures plutôt clémentes en prévision, j'ai décidé de ne prendre qu'une seule polaire au lieu de deux, et de ne pas prendre des extras "grand froid" style chapka. Au final, j'ai pu gagner quelques centaines de grammes sur mes habits.
 
 Nous avons prévu de doubler nos matelas gonflables avec des carimats en mousse style Thermarest Z-Lite alvéolé. Personnelement, j'ai assex souvent froid aux fesses, donc plutôt que d'emmener mon Z-lite en entier (410g), je suis parti sur un matelas Forclaz trouvé à 12€ sur Le Bon Coin que j'ai coupé aux 2/3 et emmener la plus courte section uniquement, pour au final n'avoir plus que 75cm et 175g. Amplement suffisant pour me tenir chaud dans le bas du dos !
+
+---
+
+Tout semble être prêt ! Il n'y a plus qu'à espérer que tout arrive en état à Abisko, et puis skier ! En espérant que la météo soit de la partie.
+
+Prochaine mise à jour à notre retour 😉
